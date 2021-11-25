@@ -1,12 +1,17 @@
  
 ### Hi there, I'm Cristian Sanchez 👋
 
+---
 I'm a Software Engineer and Tecnology Entusiast!
-🌱 I’m currently learning how to create a better sytems.
-👯 I’m looking to collaborate on open source projects
+* 🌱 I’m currently learning how to create a better sytems with better practices
+* 👯 I’m looking to collaborate on open source projects
+* 💬 Ask me about everything!
 <!-- 🤔 I’m looking for help with deploy smart contracts in EVM with solidity. -->
-💬 Ask me about everything!
-📫 How to reach me at twitter: @crisn_sz
+---
+📫 How to reach me at Twitter: [@crisn_sz](https://twitter.com/crisn_sz).
+💻 How to reach me at LinkedIn: [Cristian Sanchez](https://www.linkedin.com/in/cristian-alexander-s%C3%A1nchez-mendoza-9804aa186/).
+
+---
 
 
 
