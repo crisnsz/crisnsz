@@ -9,7 +9,7 @@ I'm a Software Engineer and Tecnology Entusiast!
 <!-- 🤔 I’m looking for help with deploy smart contracts in EVM with solidity. -->
 ---
 📫 How to reach me at Twitter: [@crisn_sz](https://twitter.com/crisn_sz).
-💻 How to reach me at LinkedIn: [Cristian Sanchez](https://www.linkedin.com/in/cristian-alexander-s%C3%A1nchez-mendoza-9804aa186/).
+💻 How to reach me at LinkedIn: [Cristian Sanchez](https://www.linkedin.com/in/crisnsz/).
 
 ---
 
